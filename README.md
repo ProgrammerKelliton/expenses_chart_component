@@ -1,3 +1,3 @@
 # Criado com:
 
-**Front-end:** React, NextJS, TailwindCSS, Framer Motion, Typescript
+**Front-end:** React, NextJS, Typescript, TailwindCSS, Framer Motion
